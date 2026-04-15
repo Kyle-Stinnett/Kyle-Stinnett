@@ -2,6 +2,10 @@
 
 Governance, Risk, and Compliance (GRC) professional focused on implementing and operationalizing security frameworks across SaaS environments.
 
+## My Role
+
+In these scenarios, I operate as a GRC analyst responsible for risk identification, control design, audit support, and cross-functional coordination to ensure compliance and security objectives are met.
+
 ## Core Focus
 - Risk Assessment & Mitigation
 - SOC 2 Audit Support & Control Validation
