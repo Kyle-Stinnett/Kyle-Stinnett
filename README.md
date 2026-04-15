@@ -1,16 +1,22 @@
-## Hi there 👋
+# Kyle Stinnett – GRC Analyst
 
-<!--
-**Kyle-Stinnett/Kyle-Stinnett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Governance, Risk, and Compliance (GRC) professional focused on implementing and operationalizing security frameworks across SaaS environments.
 
-Here are some ideas to get you started:
+## Core Focus
+- Risk Assessment & Mitigation
+- SOC 2 Audit Support & Control Validation
+- ISO 27001 ISMS Implementation
+- NIST CSF & NIST 800-53 Control Mapping
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Approach
+I specialize in translating security frameworks into practical, business-aligned controls. My work focuses on:
+- Cross-framework control mapping (ISO, SOC 2, NIST)
+- Audit readiness and evidence validation
+- Risk-based decision making in real-world environments
+
+## Portfolio Highlights
+- GRC Security Portfolio: [link]
+- GRC Automation Portfolio: [link]
+
+## Goals
+Building toward senior GRC roles with a focus on scalable compliance programs and security governance.
