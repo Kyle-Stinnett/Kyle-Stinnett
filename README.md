@@ -18,9 +18,15 @@ I specialize in translating security frameworks into practical, business-aligned
 - Audit readiness and evidence validation
 - Risk-based decision making in real-world environments
 
+## Tools & Platforms (Conceptual Familiarity)
+
+- GRC Tools: ServiceNow GRC, Archer  
+- Compliance Automation: Vanta, Drata  
+- Ticketing Systems: Jira, ServiceNow  
+
 ## Portfolio Highlights
-- GRC Security Portfolio: [link]
-- GRC Automation Portfolio: [link]
+- GRC Security Portfolio: [https://github.com/Kyle-Stinnett/grc-security-portfolio]
+- GRC Automation Portfolio: [(https://github.com/Kyle-Stinnett/grc-automation-portfolio)]
 
 ## Goals
 Building toward senior GRC roles with a focus on scalable compliance programs and security governance.
