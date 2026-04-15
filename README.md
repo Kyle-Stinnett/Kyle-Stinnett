@@ -18,7 +18,7 @@ I specialize in translating security frameworks into practical, business-aligned
 - Audit readiness and evidence validation
 - Risk-based decision making in real-world environments
 
-## Tools & Platforms (Conceptual Familiarity)
+## Tools & Platforms
 
 - GRC Tools: ServiceNow GRC, Archer  
 - Compliance Automation: Vanta, Drata  
