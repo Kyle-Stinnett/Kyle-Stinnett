@@ -1,32 +1,34 @@
-# Kyle Stinnett – GRC Analyst
+Readme · MDKyle Stinnett — GRC Professional
 
-Governance, Risk, and Compliance (GRC) professional focused on implementing and operationalizing security frameworks across SaaS environments.
+Governance, Risk, and Compliance professional building toward AI governance
+and GRC engineering, with hands-on experience supporting ISO 9001/AS9100
+audit execution in a regulated aerospace environment.
 
-## My Role
+Background
 
-In these scenarios, I operate as a GRC analyst responsible for risk identification, control design, audit support, and cross-functional coordination to ensure compliance and security objectives are met.
+I support internal ISO 9001/AS9100 audit activities on regulated production
+lines at GE Aerospace, and I'm actively pursuing CISA, ISO 27001 Lead Auditor,
+ISO 42001, and ISO 27701 certifications.
 
-## Core Focus
-- Risk Assessment & Mitigation
-- SOC 2 Audit Support & Control Validation
-- ISO 27001 ISMS Implementation
-- NIST CSF & NIST 800-53 Control Mapping
+What's Here
 
-## Approach
-I specialize in translating security frameworks into practical, business-aligned controls. My work focuses on:
-- Cross-framework control mapping (ISO, SOC 2, NIST)
-- Audit readiness and evidence validation
-- Risk-based decision making in real-world environments
+This repo indexes a portfolio I'm building to develop hands-on GRC
+engineering skills alongside my audit and governance background:
 
-## Tools & Platforms
 
-- GRC Tools: ServiceNow GRC, Archer  
-- Compliance Automation: Vanta, Drata  
-- Ticketing Systems: Jira, ServiceNow  
+grc-security-portfolio —
+ISO 27001, SOC 2, and NIST CSF framework exercises: policies, control
+blueprints, risk management case studies
+grc-automation-portfolio —
+Python projects exploring compliance drift detection and vendor risk review
+grc-terraform-modules —
+Terraform modules enforcing NIST 800-53 controls (SC-12, SC-13, SC-28, AC-3, AU-11, CM-6)
+at the infrastructure layer, with automated compliance attestation output
+terraform-compliant-s3 —
+AWS S3 infrastructure with compliance controls enforced by default
 
-## Portfolio Highlights
-- GRC Security Portfolio: [https://github.com/Kyle-Stinnett/grc-security-portfolio]
-- GRC Automation Portfolio: [(https://github.com/Kyle-Stinnett/grc-automation-portfolio)]
 
-## Goals
-Building toward senior GRC roles with a focus on scalable compliance programs and security governance.
+Why
+
+I'm building toward GRC engineering and AI governance roles, and I believe
+in learning frameworks by implementing them, not just studying them.
